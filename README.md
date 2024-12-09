@@ -1,5 +1,5 @@
 # Simple Calculator
-![Simple Calculator] (calhttps://s8.uupload.ir/files/screenshot_from_2024-12-03_21-54-38_8nb.png)
+![Simple Calculator](https://s8.uupload.ir/files/screenshot_from_2024-12-03_21-54-38_8nb.png)
 This is a simple calculator application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The application is designed to be user-friendly and easy to use.
 
 ## Features
